@@ -1,6 +1,0 @@
-<module>
-	<inherits name="com.google.gwt.event.EventBase" />
-	<inherits name='com.google.gwt.user.JQM_DOM' />
-
-	<source path="shared" />
-</module>

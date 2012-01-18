@@ -1,0 +1,7 @@
+.landscape .portraitText {
+	display: none;
+}
+
+.portrait .landscapeText {
+	display: none;
+}
