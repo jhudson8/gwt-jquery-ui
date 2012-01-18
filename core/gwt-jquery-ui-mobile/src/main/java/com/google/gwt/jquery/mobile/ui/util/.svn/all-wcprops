@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/28/trunk/mobile/core/gwt-jquery-ui-mobile/src/main/java/com/google/gwt/jquery/mobile/ui/util
+END
+JQueryMobile.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/26/trunk/mobile/core/gwt-jquery-ui-mobile/src/main/java/com/google/gwt/jquery/mobile/ui/util/JQueryMobile.java
+END
+CSSUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/28/trunk/mobile/core/gwt-jquery-ui-mobile/src/main/java/com/google/gwt/jquery/mobile/ui/util/CSSUtils.java
+END
+JQueryMobileImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/26/trunk/mobile/core/gwt-jquery-ui-mobile/src/main/java/com/google/gwt/jquery/mobile/ui/util/JQueryMobileImpl.java
+END
